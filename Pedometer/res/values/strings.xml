@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Pedometer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="step_number">0</string>
+    <string name="step_number_label">Number of Steps</string>
+
+</resources>
